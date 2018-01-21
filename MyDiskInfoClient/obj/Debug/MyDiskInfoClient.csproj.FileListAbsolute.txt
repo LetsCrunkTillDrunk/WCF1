@@ -1,0 +1,8 @@
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\bin\Debug\MyDiskInfoClient.exe.config
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\bin\Debug\MyDiskInfoClient.exe
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\bin\Debug\MyDiskInfoClient.pdb
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\bin\Debug\MyDisk.dll
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\bin\Debug\MyDisk.pdb
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\obj\Debug\MyDiskInfoClient.csprojResolveAssemblyReference.cache
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\obj\Debug\MyDiskInfoClient.exe
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfoClient\obj\Debug\MyDiskInfoClient.pdb

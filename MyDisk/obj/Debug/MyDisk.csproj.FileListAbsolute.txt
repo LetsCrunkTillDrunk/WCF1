@@ -1,0 +1,4 @@
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDisk\bin\Debug\MyDisk.dll
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDisk\bin\Debug\MyDisk.pdb
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDisk\obj\Debug\MyDisk.dll
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDisk\obj\Debug\MyDisk.pdb

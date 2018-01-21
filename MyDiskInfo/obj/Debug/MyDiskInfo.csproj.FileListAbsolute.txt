@@ -1,0 +1,2 @@
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfo\bin\Debug\MyDiskInfo.exe.config
+D:\Программирование\ШАГ\WCF\Задание 1\MyDiskInfo\MyDiskInfo\obj\Debug\MyDiskInfo.csprojResolveAssemblyReference.cache
